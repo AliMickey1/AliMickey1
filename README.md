@@ -1,5 +1,3 @@
-![This is my life](https://user-images.githubusercontent.com/112175275/220231757-8d69f66a-4807-41bb-a705-213c73148f4e.png)
-
 # Hello, I'm Aliceson Phillips 👋 ![image](https://github.com/AliMickey1/AliMickey1/assets/112175275/4edbaa21-d813-42ee-b1b5-eb7df91aceeb)
 
 ## Full-Stack Software Engineer | Instructional Technology Coach
@@ -27,8 +25,6 @@ I’m open to collaborations and conversations around educational technology and
 
 😄 Pronouns: she/her
 
- Fun fact: I'm a big Mickey fan
-
 -->
 Quotes:
 
@@ -37,3 +33,4 @@ Quotes:
 >Try to learn something about everything and everything about something. --Thomas Huxley
 
 >The man who has no imagination has no wings. --Muhammad Ali
+
